@@ -2,11 +2,11 @@ Learning to implement decision tree models is important because they are simple 
 
 **Table of Contents**
 
-**Importance
-Table of Contents
-Installation
-Usage
-Results**
+**Importance**
+**Table of Contents**
+**Installation**
+**Usage**
+**Results**
 
 **Installation**
 
